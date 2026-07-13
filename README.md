@@ -1,2 +1,0 @@
-# PixoraBlog
-full stack project
